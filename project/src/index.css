@@ -54,6 +54,7 @@ code {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
   margin: 2px;
+  box-shadow: 0px 0px 10px 1px  rgb(0, 255, 98);
 }
 .tasks {
   width: 98.5%;
