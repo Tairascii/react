@@ -6,11 +6,7 @@ import Tasks from './components/Tasks';
 import AddTask from './components/AddTask';
 function App() {
   const [tasks, setTasks] = useState([
-    {
-        id: 1,
-        title: 'Task 1',
-        isDone: false
-    }
+    
   ])
   const [showForm, setShowForm] = useState(false)
   const addTask = (task) => {
