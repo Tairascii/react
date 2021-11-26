@@ -1,0 +1,17 @@
+.profile{
+    display: flex;
+    justify-content: center;  
+}
+.data{
+    display: flex;
+    justify-content: center;
+}
+.data > img{
+    margin-right: 50px;
+}
+.container > h1{
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: 500;
+    margin-top: 50px;
+}
